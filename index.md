@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> Hello World</h1>
-<p>I Copied this from a tutorial.</p>
+<h1> Nick Hyndman </h1>
+<p>ePortfolio.</p>
 </body>
 </html>
