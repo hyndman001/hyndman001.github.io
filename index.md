@@ -5,8 +5,7 @@
 <p style="text-align: center;">here at SNHU.</p>
 <p style="text-align: center;">Work Links:</p>
 <p>1. Raw Code Review.</p>
-<iframe width="1024" height="768" src="https://drive.google.com/open?id=1NU0NTFhJy6q_po5OrtukX1QhMMS4PZ1J">
-</iframe>
+<p><a href="https://drive.google.com/open?id=1NU0NTFhJy6q_po5OrtukX1QhMMS4PZ1J">https://drive.google.com/open?id=1NU0NTFhJy6q_po5OrtukX1QhMMS4PZ1J</a></p>
 <p>2. Databases examples.</p>
 <p><a href="https://drive.google.com/open?id=1eOeSO4AkVv40kk3mFE1eJGNsZM5lyTCZ">https://drive.google.com/open?id=1eOeSO4AkVv40kk3mFE1eJGNsZM5lyTCZ</a></p>
 <p>3. Software Design and Engineering.</p>
